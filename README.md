@@ -4,4 +4,7 @@
 
 Esta es una app para generar las tablas
 
-Ejecutar el npm install
+Ejecutar
+```
+npm install
+```
